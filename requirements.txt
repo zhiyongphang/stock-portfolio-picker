@@ -3,3 +3,4 @@ pandas
 numpy
 feedparser
 requests
+flask

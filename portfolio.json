@@ -1,7 +1,41 @@
 {
   "holdings": [
-    {"ticker": "AAPL", "shares": 10, "cost_basis": 150.00},
-    {"ticker": "MSFT", "shares": 5, "cost_basis": 300.00}
+    {
+      "ticker": "ALL.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "ANZ.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "CSL.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "IOO.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "IOZ.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "VAS.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "VGS.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "WTC.AX",
+      "shares": 1
+    },
+    {
+      "ticker": "CBA.AX",
+      "shares": 10.0
+    }
   ],
-  "cash": 1000.00
+  "cash": 0
 }
